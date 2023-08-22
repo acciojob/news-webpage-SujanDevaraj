@@ -1,1 +1,57 @@
 /*  your css code here. If applicable */
+*{
+	background-color:#f5f5f5;
+	
+}
+.m{
+	display:flex;
+	flex-direction:column;
+	
+	
+}
+.head>h1,.head{
+	text-align:center;
+   background-color:#011e29;
+	color:white;
+	padding:10px;
+	border-radius:5px;
+}
+.con{
+	display:flex;
+	justify-content: space-between;
+	margin:10px;
+}
+.list{
+	width:50vw;
+	height:50vh;
+   background-color:white;
+	margin:5px;
+	box-shadow: 0px 0px 2px black;
+	border-radius:10px;
+}
+.main{
+	width:50vw;
+	height:50vh;
+   background-color:white;
+	margin:5px;
+	box-shadow: 0px 0px 2px black;
+		border-radius:10px;
+}
+.pic{
+	width:50vw;
+	height:80vh;
+   background-color:white;
+	margin:5px;
+	box-shadow: 0px 0px 2px black;
+	border-radius:10px;
+}
+h3,ul,li,p{
+	background-color:white;
+}
+h3{
+	text-align:center;
+}
+img{
+	width:30vw;
+	margin:10px
+}
