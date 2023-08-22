@@ -9,7 +9,7 @@
 	
 	
 }
-.head>h1,.head{
+header>h1,header{
 	text-align:center;
    background-color:#011e29;
 	color:white;
@@ -21,7 +21,7 @@
 	justify-content: space-between;
 	margin:10px;
 }
-.list{
+.latest-news{
 	width:50vw;
 	height:50vh;
    background-color:white;
